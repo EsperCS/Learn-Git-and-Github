@@ -8,6 +8,7 @@ int main() {
     }
     cin.tie(0)->sync_with_stdio(0);
 
+    cout << "Version 2" << '\n';
     cout << "Hello World";
 
     return 0;
